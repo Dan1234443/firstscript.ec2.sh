@@ -10,4 +10,6 @@ read name
 
 " echo "Welcome what is your password?"
 
+# Added this section for practice porpuse.
+
 
